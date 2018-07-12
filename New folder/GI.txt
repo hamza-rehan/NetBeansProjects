@@ -1,0 +1,9 @@
+GULSHAN E IQBAL			
+			edge(PER KM)		destination
+			8			GJ
+			3			GH
+			3			NIPA
+			5			PAF
+			6			KARSAZ
+			9			NAZIMABAD
+						
